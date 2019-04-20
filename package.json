@@ -1,0 +1,19 @@
+{
+  "name": "mlancelot88.github.io",
+  "version": "1.0.0",
+  "description": "Marious Davis Dev Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mlancelot88/Mlancelot88.github.io.git"
+  },
+  "author": "Marious Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mlancelot88/Mlancelot88.github.io/issues"
+  },
+  "homepage": "https://github.com/Mlancelot88/Mlancelot88.github.io#readme"
+}
